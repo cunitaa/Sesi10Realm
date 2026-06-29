@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sesi 10 Realm</string>
+    <string name="title_uph">UPH 24SI3</string>
+    <string name="form_title">Form Input Mahasiswa (Tambah Baru)</string>
+    <string name="hint_nim">Masukkan NIM (contoh: 03081240037)</string>
+    <string name="hint_nama">Masukkan Nama Lengkap</string>
+    <string name="btn_tambah">TAMBAH</string>
+    <string name="btn_update">UPDATE</string>
+    <string name="btn_hapus">HAPUS</string>
+    <string name="hint_search">Cari nama atau NIM&#8230;</string>
+    <string name="btn_sort">SORT: ASC</string>
+    <string name="list_title">Daftar Mahasiswa (Realm)</string>
+    <string name="btn_kembali">KEMBALI KE MENU UTAMA</string>
+    <string name="desc_menu">Menu</string>
+    <string name="msg_empty_fields">NIM dan Nama harus diisi</string>
+    <string name="msg_save_success">Data Berhasil Disimpan!</string>
+    <string name="msg_save_fail">Gagal menyimpan data</string>
+    <string name="msg_update_success">Data Berhasil Diupdate!</string>
+    <string name="msg_delete_success">Data Berhasil Dihapus!</string>
+    <string name="sort_prefix">SORT: %1$s</string>
+</resources>
